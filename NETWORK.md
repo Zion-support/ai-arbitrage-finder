@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Arbitrage Finder
 
-**ai-arbitrage-finder** is part of the Zion Tech Group app network (630+ apps).
+Real-time arbitrage opportunity detection across markets.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) · [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) · [ai-blockchain-ai](https://github.com/Zion-support/ai-blockchain-ai) · [spare-price-scout](https://github.com/Zion-support/spare-price-scout)
 
-## Related apps
-- [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) — Cross-exchange crypto arbitrage
-- [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) — Crypto tracking and predictive insights
-- [ai-deep-research](https://github.com/Zion-support/ai-deep-research) — Deep research engine
-- [ai-reasoning-engine](https://github.com/Zion-support/ai-reasoning-engine) — Reasoning and logic engine
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
